@@ -6,10 +6,10 @@
     "best",
     "StylishText"
   ],
-  "logo": "https://telegra.ph/file/8f7067fd24710cebfaa23.jpg",
+  "logo": "https://telegra.ph/file/ff7fcb69d4ba4b4415a53.jpg",
   "success_url": "https://telegram.dog/StylishText_zKbot",
   "website": "https://github.com/ZauteKm/Stylish-Text-Bot",
-  "repository": "https://github.com/ZauteKm/Stylish-Text-Bot",
+  "repository": "https://github.com/sltechworld/Stylish-Text-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
