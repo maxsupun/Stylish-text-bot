@@ -25,7 +25,8 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
 - Frame Work [<img src="https://telegra.ph/file/804f06d1590f7619a63ed.jpg" width="100" height="40">](https://github.com/pyrogram/pyrogram)
 
+## Special credits
+- [sltechworld](https://t.me/SL_Tech_Worldchat) - Our Telegram group
 
-## Credit ❤️:
-<p align="middle">
-<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Ns%20/AnoNyMouS/80FF000?icon=github&labelColor=black"></a>
+## [sltechworld](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1) - Our Youtube channel
+
