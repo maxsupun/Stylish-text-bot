@@ -25,8 +25,7 @@ async def start(c, m):
         [
             InlineKeyboardButton('👥 Group', url=f"https://t.me/SL_Tech_Worldchat"),
             InlineKeyboardButton('Channel 📢', url=f"https://t.me/SL_Tech_World")
-            ],[
-            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
+            ],
             InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/SL_Tech_World"),
             InlineKeyboardButton('GitHup 🤣', url=f"https://githup.com/sltechworld")
             ],[
