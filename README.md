@@ -14,7 +14,7 @@ This is a telegram bot help you to get stylish fonts and text.
 
 - `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
 
-- `OWNER_ID:` Get your user id from [@DingdiBot <img src="https://telegra.ph/file/6ac108a0030f3cf8dac94.jpg" width="30" height="30">](https://telegram.dog/DingdiBot) or [@UseTGidBot <img src="https://telegra.ph/file/fe85b1027cfd657f2f44b.jpg" width="30" height="30">](https://telegram.dog/UseTGidBot)
+- `OWNER_ID:` Get your user id from [@SangMataInfo_bot 
 
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
