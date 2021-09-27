@@ -6,7 +6,7 @@ import datetime
 import aiofiles
 import asyncio
 import traceback
-from Ankivector.configs import Config
+from config import Config
 from pyrogram.errors import FloodWait, InputUserDeactivated, UserIsBlocked, PeerIdInvalid
 
 broadcast_ids = {}
