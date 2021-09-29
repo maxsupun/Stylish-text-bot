@@ -1,16 +1,3 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
-"""
-✘ Commands Available -
-
-• `{i}logo <text>`
-   Generate a logo of the given Text
-   Or Reply To image , to write ur text on it.
-   Or Reply To Font File, To write with that font.
 
 """
 import glob
@@ -23,7 +10,8 @@ from telethon.tl.types import InputMessagesFilterPhotos
 from . import *
 
 
-@ultroid_cmd(pattern="logo ?(.*)")
+
+Stylish-Text-Bot_cmd(pattern="logo ?(.*)")
 async def logo_gen(event):
     xx = await eor(event, get_string("com_1"))
     name = event.pattern_match.group(1)
@@ -51,7 +39,7 @@ async def logo_gen(event):
         else:
             pics = []
             async for i in event.client.iter_messages(
-                "@UltroidLogos", filter=InputMessagesFilterPhotos
+                "@Stylish-Text-BotLogos", filter=InputMessagesFilterPhotos
             ):
                 pics.append(i)
             id_ = random.choice(pics)
