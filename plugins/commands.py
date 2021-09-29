@@ -33,8 +33,7 @@ async def start(c, m):
         text=text,
         reply_markup=InlineKeyboardMarkup(buttons)
     )
- except Exception as e:
-   await event.reply(f'Join with us ~ @SL_Tech_Worldchat to use this, {e}')
+
 
 
 
