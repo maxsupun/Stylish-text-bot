@@ -1,7 +1,5 @@
 from telethon import events
 
- import telethn
-
 
 def register(**args):
     """ Registers a new message. """
