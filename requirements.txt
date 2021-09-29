@@ -2,3 +2,6 @@ tgcrypto
 pyrogram==1.2.9
 aiofiles
 telethon
+Image
+ImageDraw
+ImageFont
