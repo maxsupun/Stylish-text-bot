@@ -1,6 +1,6 @@
 from telethon import events
 
-from DewmiBot import telethn
+ import telethn
 
 
 def register(**args):
