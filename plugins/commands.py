@@ -23,8 +23,8 @@ async def start(c, m):
             InlineKeyboardButton('👥 Group', url=f"https://t.me/SL_Tech_Worldchat"),
             InlineKeyboardButton('Channel 📢', url=f"https://t.me/SL_Tech_World")
             ],[
-            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/maxsupun")
+            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/maxsupun1"),
+            InlineKeyboardButton('GitHub 🤣', url=f"https://github.com/maxsupun")
             ],[
             InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1")
         ]
