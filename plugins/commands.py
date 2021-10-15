@@ -14,7 +14,7 @@ async def start(c, m):
     text = f"""Hey! {m.from_user.mention(style='md')},
 💡 ** I am Stylish Font Bot**
 `I can help you to get stylish fonts. Just send me some text and see magic.`
-**👲 Maintained By:** ▷ {owner.mention(style='md')}
+**👲 Maintained By:** ▷ {Supun Max}(https://t.me/maxsupun1)
 """
 
     # Buttons
