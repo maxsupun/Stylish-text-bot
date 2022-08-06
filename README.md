@@ -26,7 +26,7 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 - Frame Work [<img src="https://telegra.ph/file/804f06d1590f7619a63ed.jpg" width="100" height="40">](https://github.com/pyrogram/pyrogram)
 
 ## Special credits
-- [sltechworld](https://t.me/SL_Tech_Worldchat) - Our Telegram group
+- [Ai Techiee](https://t.me/AITechiee) - Our Telegram group
 - [zautekm](https://github.com/ZauteKm)
-## [sltechworld](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1) - Our Youtube channel
+## [Ai Techiee](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1) - Our Youtube channel
 
