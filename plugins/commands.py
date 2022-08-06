@@ -20,8 +20,8 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('👥 Group', url=f"https://t.me/SL_Tech_Worldchat"),
-            InlineKeyboardButton('Channel 📢', url=f"https://t.me/SL_Tech_World")
+            InlineKeyboardButton('👥 Group', url=f"https://t.me/AITechiee"),
+            InlineKeyboardButton('Channel 📢', url=f"https://t.me/AI_Techiee")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/maxsupun1"),
             InlineKeyboardButton('GitHub 🤣', url=f"https://github.com/maxsupun")
